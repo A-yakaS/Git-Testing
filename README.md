@@ -3,3 +3,5 @@ This is Testing the Git version and practicing about it Git Clone if the Git rep
 First Do git init to start
 
 This is Change from UI to test the git pull
+
+This is testing the merge.
